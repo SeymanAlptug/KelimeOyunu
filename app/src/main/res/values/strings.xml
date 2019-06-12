@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="random_button">Button</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="username">Username</string>
+    <string name="textview">TextView</string>
+
+    <string name="isim">name</string>
+    <string name="psıfre">Name</string>
+    <string name="sifre">şifre</string>
+    <string name="title_activity_kayit__ol_">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="facebook_app_id">1136092113229175</string>
+    <string name="fb_login_protocol_scheme">fb1136092113229175</string>
+
+
+    <string name="kayit">Kayıt</string>
+    <string name="Username">TextView</string>
+    <string name="password">TextView</string>
+    <string name="kullanici">Username</string>
+    <string name="parola">Password</string>
+    <string name="btnEkle">Button</string>
+    <string name="change_txt">change</string>
+    <string name="close_txt">close</string>
+
+    <string name="facebook_status_fmt">%s</string>
+    <string name="firebase_status_fmt">%s</string>
+    <string name="signed_out">Signed Out</string>
+
+
+</resources>
